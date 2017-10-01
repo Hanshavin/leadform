@@ -1,0 +1,23 @@
+{
+  "name": "ftn-lead-form",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": "Hans Evangelista <hansevangelista@gmail.com> (twitter.com/hackevangelist)",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.7.0",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "observerjs": "^0.1.10"
+  }
+}
